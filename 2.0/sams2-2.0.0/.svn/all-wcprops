@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/svn/!svn/ver/1002/trunk
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/901/trunk/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/712/trunk/TODO
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/907/trunk/configure.in
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/578/trunk/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/996/trunk/ChangeLog
+END
+Makefile.cvs
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/578/trunk/Makefile.cvs
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/578/trunk/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/907/trunk/Makefile.am
+END
+upgrade_mysql_db.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/616/trunk/upgrade_mysql_db.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/792/trunk/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/992/trunk/README
+END

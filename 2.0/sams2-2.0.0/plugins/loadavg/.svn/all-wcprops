@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/917/trunk/plugins/loadavg
+END
+readutmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/616/trunk/plugins/loadavg/readutmp.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/917/trunk/plugins/loadavg/Makefile.am
+END
+loadavg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/616/trunk/plugins/loadavg/loadavg.cpp
+END
+getloadavg.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/616/trunk/plugins/loadavg/getloadavg.c
+END
+readutmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/616/trunk/plugins/loadavg/readutmp.c
+END
+uptime.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/703/trunk/plugins/loadavg/uptime.c
+END

@@ -1,0 +1,7 @@
+pgconn.o: pgconn.cpp /usr/include/stdc-predef.h pgconn.h config.h
+
+/usr/include/stdc-predef.h:
+
+pgconn.h:
+
+config.h:

@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/996/trunk/doc
+END
+notes.html
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/794/trunk/doc/notes.html
+END
+samsbackup.html
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/795/trunk/doc/samsbackup.html
+END
+sams2_conf.html
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/578/trunk/doc/sams2_conf.html
+END
+webinterface.html
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/795/trunk/doc/webinterface.html
+END
+templates.html
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/795/trunk/doc/templates.html
+END
+setup.html
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/604/trunk/doc/setup.html
+END
+commands.html
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/580/trunk/doc/commands.html
+END
+synchronization.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/653/trunk/doc/synchronization.html
+END
+syncwithntlm.html
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/922/trunk/doc/syncwithntlm.html
+END
+importfromsams1.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/915/trunk/doc/importfromsams1.html
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/712/trunk/doc/Makefile.am
+END
+overview.html
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/696/trunk/doc/overview.html
+END
+install.html
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/996/trunk/doc/install.html
+END
+faq.html
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/996/trunk/doc/faq.html
+END
+syncwithldap.html
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/795/trunk/doc/syncwithldap.html
+END
+sams2.css
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/795/trunk/doc/sams2.css
+END
+tables.html
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/696/trunk/doc/tables.html
+END
+delaypools.html
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/795/trunk/doc/delaypools.html
+END
+template.html
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/794/trunk/doc/template.html
+END
+news.html
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/613/trunk/doc/news.html
+END
+usergroups.html
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/797/trunk/doc/usergroups.html
+END
+license.html
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/712/trunk/doc/license.html
+END
+squid.html
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/795/trunk/doc/squid.html
+END
+authorization.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/795/trunk/doc/authorization.html
+END
+someproxy.html
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/795/trunk/doc/someproxy.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/712/trunk/doc/index.html
+END
+timerange.html
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/795/trunk/doc/timerange.html
+END
+syncwithad.html
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/922/trunk/doc/syncwithad.html
+END
+accesslists.html
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/795/trunk/doc/accesslists.html
+END
+configure.html
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/795/trunk/doc/configure.html
+END
+requirements.html
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/696/trunk/doc/requirements.html
+END

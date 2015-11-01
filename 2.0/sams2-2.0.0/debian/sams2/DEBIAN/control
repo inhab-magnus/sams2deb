@@ -1,0 +1,18 @@
+Package: sams2
+Version: 2.0.0-1.1
+Architecture: amd64
+Maintainer: Pavel Vinogradov <Pavel.Vinogradov@nixdev.net>
+Installed-Size: 2674
+Depends: libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libmysqlclient18 (>= 5.5.24+dfsg-1), libpcre3, libstdc++6 (>= 4.4.0)
+Recommends: sams2-web, sams2-doc, mysql-client, squid
+Suggests: squidguard, mysql-server
+Section: net
+Priority: optional
+Homepage: http://sams.perm.ru/
+Description: Squid Account Management System (SAMS) - Deamons
+ This program basically used for administrative purposes of squid proxy.
+ There are access control for users by ntlm, ncsa, basic or ip
+ authorization mode.
+ .
+ This package contain deamons program to parse squid log files and
+ generate squid conf-files.

@@ -1,0 +1,16 @@
+6f63ccb2535ca6373c13e9afeca6e01e  usr/bin/sams2daemon
+30143f89ed0f1f755636599d4c41d2a9  usr/bin/sams2redir
+7780a2894d36a4369de70a85d751117b  usr/bin/samsparser
+b292ea98b34c74b5e36a70773259855b  usr/share/doc/sams2/AUTHORS
+85683160aee6c8c215c63b48debadadc  usr/share/doc/sams2/INSTALL
+c5aa5e77fff00d819a40f77f3f16b9e9  usr/share/doc/sams2/NEWS.gz
+95da1b8b6a632b6af66cc7bf30cf1748  usr/share/doc/sams2/README.Debian
+b91ca8af5725371a39a3a36e3577f76b  usr/share/doc/sams2/README.gz
+b1fbdf408630c4268559cad5186b8b26  usr/share/doc/sams2/TODO.Debian
+17c10a7c614d91ea70d3f8c6719ce6ee  usr/share/doc/sams2/TODO.gz
+7409f24cc3f415d78a621f3a393dad2d  usr/share/doc/sams2/changelog.Debian.gz
+dba19cbf4fdee141e8b8fc59f66ecfe0  usr/share/doc/sams2/changelog.gz
+37cb7384e2adba05911df2b8c7193eda  usr/share/doc/sams2/copyright
+d186b81343e60dd61c19b73235b8dca3  usr/share/man/man1/sams2daemon.1.gz
+f9f2d48c8e592f7afa4454d18fb8b4cd  usr/share/man/man1/sams2redir.1.gz
+91a466bfcf4a4e310c6587948eb418df  usr/share/man/man1/samsparser.1.gz

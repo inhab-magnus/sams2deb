@@ -1,0 +1,5 @@
+#etc/sams2.conf etc
+php/* usr/share/sams2
+#debian/etc/apache2/sams2.conf /etc/apache2/sites-available
+#debian/etc/nginx/sams2.conf /etc/nginx/conf.d
+scripts/* usr/share/sams2/src/script

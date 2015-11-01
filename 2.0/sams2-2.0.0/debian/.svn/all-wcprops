@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/995/trunk/debian
+END
+README.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/995/trunk/debian/README.Debian
+END
+sams2.manpages
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/993/trunk/debian/sams2.manpages
+END
+samsparser.1
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/992/trunk/debian/samsparser.1
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/995/trunk/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/578/trunk/debian/compat
+END
+init.d
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/847/trunk/debian/init.d
+END
+sams2.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/821/trunk/debian/sams2.dirs
+END
+sams2.confiles
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/719/trunk/debian/sams2.confiles
+END
+TODO.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/578/trunk/debian/TODO.Debian
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/995/trunk/debian/changelog
+END
+sams2.install
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/992/trunk/debian/sams2.install
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/821/trunk/debian/rules
+END
+sams2-doc.install
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/729/trunk/debian/sams2-doc.install
+END
+sams2-web.confiles
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/719/trunk/debian/sams2-web.confiles
+END
+confiles
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/578/trunk/debian/confiles
+END
+sams2-web.install
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/726/trunk/debian/sams2-web.install
+END
+sams2.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/719/trunk/debian/sams2.postinst
+END
+sams2daemon.1
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/993/trunk/debian/sams2daemon.1
+END
+sams2.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/719/trunk/debian/sams2.postrm
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/578/trunk/debian/copyright
+END
+sams2redir.1
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/993/trunk/debian/sams2redir.1
+END
+sams2.docs
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/719/trunk/debian/sams2.docs
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/893/trunk/etc
+END
+httpd_conf
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/614/trunk/etc/httpd_conf
+END
+sams2.conf
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/893/trunk/etc/sams2.conf
+END
+doc_sams2_conf
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/608/trunk/etc/doc_sams2_conf
+END

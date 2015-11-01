@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/991/trunk/php/bin
+END
+freeswap
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/578/trunk/php/bin/freeswap
+END
+updateuserlist
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/578/trunk/php/bin/updateuserlist
+END
+samsdf
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/578/trunk/php/bin/samsdf
+END
+freemem
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/578/trunk/php/bin/freemem
+END
+testntlmusergroup
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/916/trunk/php/bin/testntlmusergroup
+END
+syncfromntlm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/916/trunk/php/bin/syncfromntlm
+END
+ntlm_auth
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/644/trunk/php/bin/ntlm_auth
+END
+getntlmusers
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/916/trunk/php/bin/getntlmusers
+END
+fsusage
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/578/trunk/php/bin/fsusage
+END
+syncfromldap
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/790/trunk/php/bin/syncfromldap
+END
+uptime
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/578/trunk/php/bin/uptime
+END
+getntlmgroupid
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/916/trunk/php/bin/getntlmgroupid
+END
+syncfromad
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/991/trunk/php/bin/syncfromad
+END
+testwbinfopasswd
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/916/trunk/php/bin/testwbinfopasswd
+END
+diskspace
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/578/trunk/php/bin/diskspace
+END
+getwbinfousers
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/578/trunk/php/bin/getwbinfousers
+END
+getntlmgroups
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/880/trunk/php/bin/getntlmgroups
+END

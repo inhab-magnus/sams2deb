@@ -1,0 +1,521 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/1001/trunk/src
+END
+url.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/578/trunk/src/url.h
+END
+ip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/578/trunk/src/ip.cpp
+END
+dbconn.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/613/trunk/src/dbconn.h
+END
+template.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/708/trunk/src/template.cpp
+END
+timerangelist.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/689/trunk/src/timerangelist.h
+END
+processmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/613/trunk/src/processmanager.h
+END
+dbexporter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/596/trunk/src/dbexporter.cpp
+END
+urlgroup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/652/trunk/src/urlgroup.cpp
+END
+userlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/648/trunk/src/userlist.h
+END
+logger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/596/trunk/src/logger.cpp
+END
+dbquery.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/613/trunk/src/dbquery.h
+END
+dbcleaner.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/610/trunk/src/dbcleaner.h
+END
+dns.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/614/trunk/src/dns.cpp
+END
+debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/578/trunk/src/debug.cpp
+END
+localnetworks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/700/trunk/src/localnetworks.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/992/trunk/src/Makefile.am
+END
+net.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/700/trunk/src/net.h
+END
+odbcquery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/678/trunk/src/odbcquery.cpp
+END
+delaypool.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/689/trunk/src/delaypool.h
+END
+samsuserlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/971/trunk/src/samsuserlist.cpp
+END
+squidconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/613/trunk/src/squidconf.h
+END
+tools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/899/trunk/src/tools.cpp
+END
+dbconn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/596/trunk/src/dbconn.cpp
+END
+timerangelist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/703/trunk/src/timerangelist.cpp
+END
+samsldap.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/654/trunk/src/samsldap.h
+END
+processmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/578/trunk/src/processmanager.cpp
+END
+squidlogparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/578/trunk/src/squidlogparser.h
+END
+dbquery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/610/trunk/src/dbquery.cpp
+END
+ip.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/610/trunk/src/ip.h
+END
+dbcleaner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/708/trunk/src/dbcleaner.cpp
+END
+timerange.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/689/trunk/src/timerange.h
+END
+dbexporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/613/trunk/src/dbexporter.h
+END
+pgconn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/596/trunk/src/pgconn.cpp
+END
+userfilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/578/trunk/src/userfilter.cpp
+END
+proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/814/trunk/src/proxy.h
+END
+samsdaemon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/955/trunk/src/samsdaemon.cpp
+END
+datefilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/613/trunk/src/datefilter.h
+END
+grouplist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/596/trunk/src/grouplist.cpp
+END
+mysqlconn.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/613/trunk/src/mysqlconn.h
+END
+dns.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/614/trunk/src/dns.h
+END
+odbcconn.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/613/trunk/src/odbcconn.h
+END
+pluginlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/634/trunk/src/pluginlist.cpp
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/702/trunk/src/debug.h
+END
+squidconf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1001/trunk/src/squidconf.cpp
+END
+mysqlquery.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/613/trunk/src/mysqlquery.h
+END
+samsuser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/814/trunk/src/samsuser.cpp
+END
+samsuserlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/614/trunk/src/samsuserlist.h
+END
+tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/899/trunk/src/tools.h
+END
+timerange.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/689/trunk/src/timerange.cpp
+END
+templatelist.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/632/trunk/src/templatelist.h
+END
+urlgrouplist.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/700/trunk/src/urlgrouplist.h
+END
+proxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/814/trunk/src/proxy.cpp
+END
+mysqlconn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/971/trunk/src/mysqlconn.cpp
+END
+datefilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/648/trunk/src/datefilter.cpp
+END
+delaypoollist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/689/trunk/src/delaypoollist.cpp
+END
+odbcconn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/596/trunk/src/odbcconn.cpp
+END
+pgconn.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/613/trunk/src/pgconn.h
+END
+userfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/610/trunk/src/userfilter.h
+END
+samsredir.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/992/trunk/src/samsredir.cpp
+END
+filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/578/trunk/src/filter.h
+END
+mysqlquery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/780/trunk/src/mysqlquery.cpp
+END
+pgquery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/780/trunk/src/pgquery.cpp
+END
+grouplist.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/613/trunk/src/grouplist.h
+END
+samsconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/698/trunk/src/samsconfig.h
+END
+pluginlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/610/trunk/src/pluginlist.h
+END
+url.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/578/trunk/src/url.cpp
+END
+squidlogline.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/801/trunk/src/squidlogline.h
+END
+samsuser.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/778/trunk/src/samsuser.h
+END
+templatelist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/703/trunk/src/templatelist.cpp
+END
+userlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/648/trunk/src/userlist.cpp
+END
+urlgrouplist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/687/trunk/src/urlgrouplist.cpp
+END
+samsparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/596/trunk/src/samsparser.cpp
+END
+template.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/708/trunk/src/template.h
+END
+urlgroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/617/trunk/src/urlgroup.h
+END
+logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/703/trunk/src/logger.h
+END
+filter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/578/trunk/src/filter.cpp
+END
+net.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/700/trunk/src/net.cpp
+END
+delaypool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/689/trunk/src/delaypool.cpp
+END
+delaypoollist.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/689/trunk/src/delaypoollist.h
+END
+samsconfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/702/trunk/src/samsconfig.cpp
+END
+localnetworks.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/700/trunk/src/localnetworks.h
+END
+squidlogline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/899/trunk/src/squidlogline.cpp
+END
+pgquery.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/613/trunk/src/pgquery.h
+END
+odbcquery.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/613/trunk/src/odbcquery.h
+END
+squidlogparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/881/trunk/src/squidlogparser.cpp
+END
+samsldap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/780/trunk/src/samsldap.cpp
+END

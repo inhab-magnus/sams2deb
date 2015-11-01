@@ -1,0 +1,7 @@
+chown www-data:www-data -R /usr/share/sams2/
+ln -s /usr/sbin/squid3 /usr/sbin/squid
+rm /etc/nginx/sites-available/default
+rm /etc/nginx/sites-enabled/default
+#cat /etc/php5/fpm/pool.d/www.conf | sed 's/^listen = .*/listen = 127.0.0.1:9000/' > /etc/php5/fpm/pool.d/www.conf
+service php5-fpm restart
+service nginx restart

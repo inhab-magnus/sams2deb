@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/917/trunk/plugins/fsusage
+END
+getfsusage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/703/trunk/plugins/fsusage/getfsusage.cpp
+END
+fsusage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/643/trunk/plugins/fsusage/fsusage.cpp
+END
+human.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/643/trunk/plugins/fsusage/human.h
+END
+human.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/643/trunk/plugins/fsusage/human.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/917/trunk/plugins/fsusage/Makefile.am
+END

@@ -1,0 +1,5 @@
+chown www-data:www-data -R /usr/share/sams2/
+ln -s /usr/sbin/squid3 /usr/sbin/squid
+#ln -s /etc/apache2/sites-available/sams2.conf /etc/apache2/sites-enabled/sams2.conf
+#service apache2 restart
+

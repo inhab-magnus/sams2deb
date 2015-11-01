@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/917/trunk/m4
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/883/trunk/m4/acinclude.m4
+END
+pcre.m4
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/578/trunk/m4/pcre.m4
+END
+unixodbc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/578/trunk/m4/unixodbc.m4
+END
+getloadavg.m4
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/616/trunk/m4/getloadavg.m4
+END
+fsusage.m4
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/646/trunk/m4/fsusage.m4
+END
+ldap.m4
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/648/trunk/m4/ldap.m4
+END
+srcdocs.m4
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/578/trunk/m4/srcdocs.m4
+END
+findfile.m4
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/578/trunk/m4/findfile.m4
+END
+pq.m4
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/588/trunk/m4/pq.m4
+END
+readutmp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/616/trunk/m4/readutmp.m4
+END
+free.m4
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/616/trunk/m4/free.m4
+END
+httpd.m4
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/917/trunk/m4/httpd.m4
+END
+uptime.m4
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/616/trunk/m4/uptime.m4
+END
+mysql.m4
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/578/trunk/m4/mysql.m4
+END

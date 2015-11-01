@@ -1,0 +1,12 @@
+Package: sams2-doc
+Source: sams2
+Version: 2.0.0-1.1
+Architecture: all
+Maintainer: Pavel Vinogradov <Pavel.Vinogradov@nixdev.net>
+Installed-Size: 4075
+Depends: doxygen, debhelper (>= 5)
+Section: doc
+Priority: optional
+Homepage: http://sams.perm.ru/
+Description: Squid Account Management System 2 (SAMS) - Documentation
+ The sams2-doc package includes the HTML versions of the "Using SAMS2".

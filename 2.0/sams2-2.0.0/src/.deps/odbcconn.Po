@@ -1,0 +1,7 @@
+odbcconn.o: odbcconn.cpp /usr/include/stdc-predef.h odbcconn.h config.h
+
+/usr/include/stdc-predef.h:
+
+odbcconn.h:
+
+config.h:

@@ -1,0 +1,19 @@
+Package: sams2-web
+Source: sams2
+Version: 2.0.0-1.1
+Architecture: all
+Maintainer: Pavel Vinogradov <Pavel.Vinogradov@nixdev.net>
+Installed-Size: 4318
+Depends: apache2 | httpd, php5, php5-mysql, php5-gd
+Recommends: sams2-doc
+Suggests: php5-ldap
+Section: web
+Priority: optional
+Homepage: http://sams.perm.ru/
+Description: Squid Account Management System (SAMS) - Web interface
+ This program basically used for administrative purposes of squid proxy.
+ There are access control for users by ntlm, ncsa, basic or ip
+ authorization mode.
+ .
+ This package contain web-interface to access collected statistic and
+ manage user access to proxy server

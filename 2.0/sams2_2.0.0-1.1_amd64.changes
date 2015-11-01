@@ -1,0 +1,37 @@
+Format: 1.8
+Date: Sat, 17 Oct 2015 08:21:38 -0400
+Source: sams2
+Binary: sams2 sams2-web sams2-doc
+Architecture: source amd64 all
+Version: 2.0.0-1.1
+Distribution: UNRELEASED
+Urgency: low
+Maintainer: Pavel Vinogradov <Pavel.Vinogradov@nixdev.net>
+Changed-By: Konstantin Shevlyakov <konst.shell@gmail.com>
+Description: 
+ sams2      - Squid Account Management System (SAMS) - Deamons
+ sams2-doc  - Squid Account Management System 2 (SAMS) - Documentation
+ sams2-web  - Squid Account Management System (SAMS) - Web interface
+Changes: 
+ sams2 (2.0.0-1.1) UNRELEASED; urgency=low
+ .
+   * Non-maintainer upload.
+   * Fix libtool path
+Checksums-Sha1: 
+ 295fd68e265b43a511d04ebfc62160c0cd6ad78b 801 sams2_2.0.0-1.1.dsc
+ da1f65670f31a89673c5b5439581ce82bf488c22 5345877 sams2_2.0.0-1.1.tar.gz
+ 55d10eb7e31c363ea360833261106f888ac1eb90 449432 sams2_2.0.0-1.1_amd64.deb
+ efcc20aed5ba9e2c2245cbff98e1d62622db7ed1 457034 sams2-web_2.0.0-1.1_all.deb
+ 01b9e77aba3dd5f52da88856b022d5ec77d7d585 3458096 sams2-doc_2.0.0-1.1_all.deb
+Checksums-Sha256: 
+ db5af3370bb61de17ae1abfbc03e69db7910254386cb4d3b9464bb2d762372e7 801 sams2_2.0.0-1.1.dsc
+ 016eadf23ba70ad08d5f7fb9d74cc6e62656eb513aa242d6719857ba1076e842 5345877 sams2_2.0.0-1.1.tar.gz
+ 9695d01c7d53f8875b828848c0dc396dd5fbf7428986ea6cb7bdc1508ad2f2c4 449432 sams2_2.0.0-1.1_amd64.deb
+ 15d3c1abccbfc2740d321634e829dbfb628385332722ceac7a78ed96caecfcc5 457034 sams2-web_2.0.0-1.1_all.deb
+ d18a8467787e7894961a38d3addb6ac788dae646afb7e1313f778b393865bd60 3458096 sams2-doc_2.0.0-1.1_all.deb
+Files: 
+ 5b4d98cb64bbb59e9e15e19887d595f7 801 net optional sams2_2.0.0-1.1.dsc
+ 900eedbe19a805d5163cafca9a3015d6 5345877 net optional sams2_2.0.0-1.1.tar.gz
+ 8c561b1b3c4a76c6cbb5cccc687970e0 449432 net optional sams2_2.0.0-1.1_amd64.deb
+ 61e11527364fc31949015fc1509eae17 457034 web optional sams2-web_2.0.0-1.1_all.deb
+ e7d26874aa501e80d2b9bdcc445a647c 3458096 doc optional sams2-doc_2.0.0-1.1_all.deb

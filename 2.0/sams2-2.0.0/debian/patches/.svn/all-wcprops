@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/714/trunk/debian/patches
+END
+series
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/578/trunk/debian/patches/series
+END
+conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/714/trunk/debian/patches/conf.patch
+END

@@ -1,0 +1,6 @@
+Template: sams2-web/reconfigure-webserver
+Type: select
+Choices: apache2, nginx, no
+_Description: Web server to reconfigure automatically:
+ Please choose the web server that should be automatically configured
+ to run sams2.

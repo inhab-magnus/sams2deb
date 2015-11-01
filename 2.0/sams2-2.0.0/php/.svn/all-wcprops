@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/1002/trunk/php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/614/trunk/php/config.php
+END
+proxyclass.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/782/trunk/php/proxyclass.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/782/trunk/php/index.php
+END
+createdb.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/578/trunk/php/createdb.php
+END
+dbclass.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/971/trunk/php/dbclass.php
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/857/trunk/php/Makefile.am
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/994/trunk/php/index.html
+END
+samstools.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1000/trunk/php/samstools.php
+END
+authclass.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/817/trunk/php/authclass.php
+END
+lframe_sams.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/597/trunk/php/lframe_sams.php
+END
+lframe_1webconf.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/597/trunk/php/lframe_1webconf.php
+END
+poolclass.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/782/trunk/php/poolclass.php
+END
+tools.php
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/979/trunk/php/tools.php
+END
+dbstruct.sql
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/638/trunk/php/dbstruct.sql
+END
+dateclass.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1000/trunk/php/dateclass.php
+END
+blocked.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/782/trunk/php/blocked.php
+END
+userclass.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1000/trunk/php/userclass.php
+END
+trangeclass.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/855/trunk/php/trangeclass.php
+END
+lframe.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/989/trunk/php/lframe.php
+END
+lframe_0ident.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/597/trunk/php/lframe_0ident.php
+END
+shablonclass.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/782/trunk/php/shablonclass.php
+END
+lframe_2sysplug.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/616/trunk/php/lframe_2sysplug.php
+END
+tray.php
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/989/trunk/php/tray.php
+END
+groupclass.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/578/trunk/php/groupclass.php
+END
+reportsclass.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/981/trunk/php/reportsclass.php
+END
+main.php
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1000/trunk/php/main.php
+END
+lframe_users.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/892/trunk/php/lframe_users.php
+END
+pluginmanager.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/578/trunk/php/pluginmanager.php
+END
+samsclass.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1000/trunk/php/samsclass.php
+END
+setup.php
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/973/trunk/php/setup.php
+END
+test_table.html
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/578/trunk/php/test_table.html
+END
